@@ -147,59 +147,119 @@
   "color_main_btn_text": null,
   "redirect_link": "https://visquick.com/go",
   "logo": {
-    "id": 67,
+    "id": 115,
     "name": "logo.webp",
-    "url": "/uploads/logo_4f9b72461e.webp",
+    "url": "/uploads/logo_cedbfe1531.webp",
     "formats": {
+      "small": {
+        "ext": ".webp",
+        "url": "/uploads/small_logo_cedbfe1531.webp",
+        "hash": "small_logo_cedbfe1531",
+        "mime": "image/webp",
+        "name": "small_logo.webp",
+        "path": null,
+        "size": 13.25,
+        "width": 500,
+        "height": 140,
+        "sizeInBytes": 13254
+      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_4f9b72461e.webp",
-        "hash": "thumbnail_logo_4f9b72461e",
+        "url": "/uploads/thumbnail_logo_cedbfe1531.webp",
+        "hash": "thumbnail_logo_cedbfe1531",
         "mime": "image/webp",
         "name": "thumbnail_logo.webp",
         "path": null,
-        "size": 4.8,
+        "size": 5.58,
         "width": 245,
-        "height": 98,
-        "sizeInBytes": 4804
+        "height": 68,
+        "sizeInBytes": 5580
       }
     }
   },
   "popup_logo": {
-    "id": 66,
+    "id": 116,
     "name": "logo.webp",
-    "url": "/uploads/logo_7db3267873.webp",
+    "url": "/uploads/logo_e8c8d854f7.webp",
     "formats": {
+      "small": {
+        "ext": ".webp",
+        "url": "/uploads/small_logo_e8c8d854f7.webp",
+        "hash": "small_logo_e8c8d854f7",
+        "mime": "image/webp",
+        "name": "small_logo.webp",
+        "path": null,
+        "size": 13.25,
+        "width": 500,
+        "height": 140,
+        "sizeInBytes": 13254
+      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_7db3267873.webp",
-        "hash": "thumbnail_logo_7db3267873",
+        "url": "/uploads/thumbnail_logo_e8c8d854f7.webp",
+        "hash": "thumbnail_logo_e8c8d854f7",
         "mime": "image/webp",
         "name": "thumbnail_logo.webp",
         "path": null,
-        "size": 4.8,
+        "size": 5.58,
         "width": 245,
-        "height": 98,
-        "sizeInBytes": 4804
+        "height": 68,
+        "sizeInBytes": 5580
       }
     }
   },
   "main_background_img": {
-    "id": 68,
+    "id": 114,
     "name": "banner.webp",
-    "url": "/uploads/banner_6e81763fe7.webp",
+    "url": "/uploads/banner_fc69d87564.webp",
     "formats": {
+      "large": {
+        "ext": ".webp",
+        "url": "/uploads/large_banner_fc69d87564.webp",
+        "hash": "large_banner_fc69d87564",
+        "mime": "image/webp",
+        "name": "large_banner.webp",
+        "path": null,
+        "size": 11.23,
+        "width": 1000,
+        "height": 267,
+        "sizeInBytes": 11232
+      },
+      "small": {
+        "ext": ".webp",
+        "url": "/uploads/small_banner_fc69d87564.webp",
+        "hash": "small_banner_fc69d87564",
+        "mime": "image/webp",
+        "name": "small_banner.webp",
+        "path": null,
+        "size": 4.22,
+        "width": 500,
+        "height": 133,
+        "sizeInBytes": 4216
+      },
+      "medium": {
+        "ext": ".webp",
+        "url": "/uploads/medium_banner_fc69d87564.webp",
+        "hash": "medium_banner_fc69d87564",
+        "mime": "image/webp",
+        "name": "medium_banner.webp",
+        "path": null,
+        "size": 7.63,
+        "width": 750,
+        "height": 200,
+        "sizeInBytes": 7626
+      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_banner_6e81763fe7.webp",
-        "hash": "thumbnail_banner_6e81763fe7",
+        "url": "/uploads/thumbnail_banner_fc69d87564.webp",
+        "hash": "thumbnail_banner_fc69d87564",
         "mime": "image/webp",
         "name": "thumbnail_banner.webp",
         "path": null,
-        "size": 2.51,
+        "size": 1.5,
         "width": 245,
         "height": 65,
-        "sizeInBytes": 2512
+        "sizeInBytes": 1502
       }
     }
   },
@@ -347,8 +407,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-08T19:34:13.273Z",
+  "_generated_at": "2026-04-09T17:18:17.308Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-08T19:34:14.985Z",
-  "_deploy_trigger": "22wzhk"
+  "_last_deploy": "2026-04-09T17:18:17.847Z",
+  "_deploy_trigger": "8ssmgj"
 }
